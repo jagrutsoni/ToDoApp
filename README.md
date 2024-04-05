@@ -1,0 +1,1 @@
+I've developed this app as a demonstration of the fundamental project structure of Android, utilizing MVVM architecture, Jetpack Compose, Hilt dependency injection, and Firestore database integration.
